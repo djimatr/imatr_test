@@ -1,0 +1,34 @@
+{
+    "name": "iMatr",
+    "short_name": "iMatr",
+    "description": "iMatr brings democracy into the future by providing a social platform for Canadians, organizations, and government.",
+    "start_url": "/index.php",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait",
+    "categories": ["social", "government", "politics"],
+    "icons": [
+
+      {
+        "src": "/images/imatr144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/images/imatr144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Home",
+        "url": "/index.php",
+        "description": "Return to home page"
+      }
+    ]
+  }
